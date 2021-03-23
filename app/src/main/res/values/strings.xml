@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+
+    <string name="blood">Blood</string>
+
+    <string name="donation">Donation</string>
+
+    <string name="start">Start Journey</string>
+
+    <string name="first_splash"> Donate Blood.<br>
+    Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</br>
+</string>
+
+    <string name="second_splash"> Save Life.<br>
+    Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</br>
+</string>
+
+    <string name="next">Next</string>
+
+    <string name="starts">Start</string>
+
+    <string name="reg">Let Us Know <br>About you </br> </string>
+
+    <string name="username">Username</string>
+
+    <string name="usernamehint">Johndoe</string>
+
+    <string name="email">Email</string>
+
+    <string name="emailhint">johndoe@gmail.com</string>
+
+    <string name="password">Password</string>
+
+    <string name="passwordhint">*****</string>
+
+    <string name="caution">Provide Your real name for your identity.<br> Your name will be used to search</br></string>
+
+    <string name="profile">You are almost <br>done</br></string>
+
+    <string name="profilecaution">Please do not use a model<br>or doll avatar. Please keep faith on</br><br>yourself, you are beautiful too.</br></string>
+
+    <string name="live">Where do<br>you live?</br></string>
+
+    <string name="sa">Street Adress</string>
+
+    <string name="city">City</string>
+
+    <string name="postalcode">Postal Code</string>
+
+    <string name="addresscaution"> Please provide correct address.<br> This information will keep safe.</br></string>
+
+    <string name="gender">What is<br>your gender?</br></string>
+
+    <string name="gc">Defining your gender will let us <br>know bring new features for</br><br>morhers health care.</br></string>
+
+    <string name="bg">What is<br>your blood group?</br></string>
+
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+
+    <string name="bloodgroup">Blood Group</string>
+
+    <string name="bloodcaution">Your blood group need to be accurate. <br> If you do not know about it </br><br>please contact nearest clinic.</br></string>
+
+    <string name="contact">Contact <br>Information</br></string>
+
+    <string name="phn">Phone No.</string>
+
+    <string name="alt">Alternative Phone No.</string>
+
+    <string name="social">Social</string>
+
+    <string name="contactcaution">Please Provide correct phone no. <br>This information will keep</br><br>safe</br></string>
+
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
